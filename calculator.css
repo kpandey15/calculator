@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+    width: fit-content;
+    
+    margin:auto;
+}
+div{
+ 
+    background-color:black;
+    border-radius: 15px;
+    color: white;
+    width:10px;
+    margin:auto;
+    width:fit-content;
+    font-size:60px;
+   
+  }
+  button{
+      font-size:35px;
+      border-radius:100px;
+      border-color: brown;
+  }
+  td{
+      width: 28%;
+  }
+  input{
+    width:97%;
+    font-size:35%;
+}
+span{
+     font-size:65px;
+    text-decoration-line: underline;
+  }
